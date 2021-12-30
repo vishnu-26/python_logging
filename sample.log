@@ -1,0 +1,15 @@
+DEBUG: __main__: Add: 20 + 10 = 30
+DEBUG: __main__: Sub: 20 - 10 = 10
+DEBUG: __main__: Mul: 20 * 10 = 200
+DEBUG: __main__: Div: 20 / 10 = 2.0
+ERROR: __main__: Dvision by Zero is not allowed!!
+ERROR: __main__: Dvision by Zero is not allowed!!
+Traceback (most recent call last):
+  File "sample.py", line 45, in divide
+    return x/y
+ZeroDivisionError: division by zero
+ERROR: __main__: Dvision by Zero is not allowed!!
+Traceback (most recent call last):
+  File "sample.py", line 48, in divide
+    return x/y
+ZeroDivisionError: division by zero
